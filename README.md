@@ -9,3 +9,6 @@ A Streamlit-based web app that suggests movies based on user preferences or coll
 - Recommends movies using [algorithm: e.g., cosine similarity.].
 - Interactive interface for users to input preferences.
 - Displays movie details like genre, rating, and poster.
+
+## Dataset 📊
+This app uses the [TMDB 5000 Movies Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) from Kaggle.  
